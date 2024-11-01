@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zedna Maintenance Mode\n"
+"POT-Creation-Date: 2019-06-21 10:47+0200\n"
+"PO-Revision-Date: 2019-06-21 11:05+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: zedna-maintenance-mode.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: zedna-maintenance-mode.php:18
+msgid "Website is under maintenance"
+msgstr "Na webu probíhá údržba"
+
+#: zedna-maintenance-mode.php:93
+msgid "Zedna Maintenance Mode Settings page"
+msgstr "Zedna Maintenance Mode Nastavení"
+
+#: zedna-maintenance-mode.php:93
+msgid "Maintenance Mode"
+msgstr "Režim údržby"
+
+#: zedna-maintenance-mode.php:110
+msgid ""
+"<strong>Website is under maintenance</strong></div><div style=\"text-align: "
+"center;\">We are currently making updates. Everything will be online shortly."
+msgstr ""
+"<strong>Na webu probíhá údržba</strong></div><div style=“text-align: "
+"center;”>Právě aktualizujeme web. Vše by mělo být online během chvilky."
+
+#: zedna-maintenance-mode.php:112
+msgid "Zedna Maintenance Mode Settings"
+msgstr "Zedna Maintenance Mode Nastavení"
+
+#: zedna-maintenance-mode.php:135
+msgid "Set maintenance mode for users with minimum role:"
+msgstr "Nastavte režim údržby pro uživatele s minimální rolí:"
+
+#: zedna-maintenance-mode.php:143
+msgid "Administrator"
+msgstr "Administrátor"
+
+#: zedna-maintenance-mode.php:149
+msgid "Editor"
+msgstr "Šéfredaktor"
+
+#: zedna-maintenance-mode.php:155
+msgid "Author"
+msgstr "Redaktor"
+
+#: zedna-maintenance-mode.php:161
+msgid "Contributor"
+msgstr "Spolupracovník"
+
+#: zedna-maintenance-mode.php:167
+msgid "Subscriber"
+msgstr "Návštěvník"
+
+#: zedna-maintenance-mode.php:173
+msgid "Anonym user"
+msgstr "Anonymní uživatel"
+
+#: zedna-maintenance-mode.php:179
+msgid "Turn off maintenance mode"
+msgstr "Vypnout režim údržby"
+
+#: zedna-maintenance-mode.php:185
+msgid "Redirect to login page"
+msgstr "Přesměrovat na přihlašovací stránku"
+
+#: zedna-maintenance-mode.php:195
+msgid "Maintenance message"
+msgstr "Zpráva o údržbě"
+
+#: zedna-maintenance-mode.php:209
+msgid "If you like this plugin, please donate us for faster upgrade"
+msgstr ""
+"Pokud se vám tento plugin líbí, můžete nám přispěr na rychlejší upgrade"
+
+#. Plugin Name of the plugin/theme
+msgid "Zedna Maintenance Mode"
+msgstr "Zedna Maintenance Mode"
+
+#. Plugin URI of the plugin/theme
+msgid "https://profiles.wordpress.org/zedna#content-plugins"
+msgstr "https://profiles.wordpress.org/zedna#content-plugins"
+
+#. Description of the plugin/theme
+msgid "Set you website under maintenance to lock content while development."
+msgstr "Nastavte na webu režim údržby a uzamkněte obsah během vývoje."
+
+#. Author of the plugin/theme
+msgid "Radek Mezulanik"
+msgstr "Radek Mezulanik"
+
+#. Author URI of the plugin/theme
+msgid "https://cz.linkedin.com/in/radekmezulanik"
+msgstr "https://cz.linkedin.com/in/radekmezulanik"
